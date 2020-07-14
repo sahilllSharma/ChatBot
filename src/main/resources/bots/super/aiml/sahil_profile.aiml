@@ -18,4 +18,8 @@
 <category><pattern>WHO IS SAHIL SHARMA</pattern>
 <template>He is very smart as he is from hoshiarpur.</template>
 </category>
+  
+<category><pattern>Add Your Question</pattern>
+<template>Add your Response and make it expert and intelligent.</template>
+</category>
 </aiml>
